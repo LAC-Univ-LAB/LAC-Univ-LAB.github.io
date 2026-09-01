@@ -1,11 +1,10 @@
 ---
 - title: >
-    A modality gap in personal-genome prediction by sequence-to-function models
+    Perceived Authority and Hairstyle: An Exploratory Study of FirstImpression Formation
   author: >
-     <u>Xinming Tu</u>, <u>Anna Spiro</u>, Maria Chikina, <b>Sara Mostafavi</b>.<I> bioRxiv</I>
-  image: ../images/modality.png
+     <u>Sunjo Kim</u>, <u>Tommy Ahn</u>. <I>Journal of Los Santos Behavioral Studies</I>
+  image: ../images/p1.png
   year: 2026
   repo:
     name: link
-    url: https://www.biorxiv.org/content/10.64898/2026.02.01.702969v1
-
+    url: ../docs/LAB_Urban_AI.pdf
