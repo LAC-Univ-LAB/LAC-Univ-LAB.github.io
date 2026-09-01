@@ -32,6 +32,10 @@
   role: M.S. Student
   photo: "/images/ts.png"
 
+- name: ChanAh Ki
+  role: M.S. Student
+  photo: "/images/empty.png"
+  
 - name: Sunhee Jin
   role: Undergraduate Student
   photo: "/images/empty.png"
