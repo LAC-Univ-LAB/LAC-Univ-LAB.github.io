@@ -1,28 +1,41 @@
 ---
 
-- name: Sara Mostafavi
-  role: Principal Investigator
-  photo: "images/Sara_2024_v2.jpg" 
+- name: Sunjo Kim
+  role: Ph.D. Student
+  photo: "images/sj.png" 
 
-- name: Xinming Tu
-  role: PhD Student at UW - CSE
-  photo: "/images/Xinming.png"
+- name: Welchi
+  role: M.S. Student
+  photo: "/images/empty.png"
   
-- name: Anna Spiro
-  role: UW CSE PhD Student 
-  photo: "/images/Anna.jpg"
-
-- name: Yilun Sheng
-  role: UW CSE PhD Student 
-  photo: "/images/yilunsheng.jpg"
-
-- name: Tianze Wang
-  role: UW CSE PhD Student 
-  photo: "/images/Tianze.jpg"
-
+- name: Simin
+  role: M.S. Student
+  photo: "/images/empty.png"
   
-- name: Alina Chandra
-  role: UW CSE Undergraduate 
-  photo: "/images/Alina.JPG"
+- name: Mong Mong
+  role: M.S. Student
+  photo: "/images/empty.png"
 
+- name: Ppeuni
+  role: M.S. Student 
+  photo: "/images/empty.png"
 
+- name: Rakun Kim
+  role: M.S. Student
+  photo: "/images/empty.png"
+
+- name: Danaka
+  role: M.S. Student
+  photo: "/images/empty.png"
+
+- name: Taeseok Jang
+  role: M.S. Student
+  photo: "/images/empty.png"
+
+- name: Sunhee Jin
+  role: Undergraduate Student
+  photo: "/images/empty.png"
+  
+- name: Seungwon Cha
+  role: Undergraduate Student
+  photo: "/images/empty.png"
