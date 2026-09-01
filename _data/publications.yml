@@ -9,10 +9,10 @@
     name: link
     url: https://arxiv.org/pdf/2604.24955
 - title: >
-    A scalable approach to investigating sequence-to-expression prediction from personal genomes
+    Interpretable Urban AI for Dynamic Public-Safety Response in Los Santos
   author: >
-     <u>Anna Spiro</u>*, <u>Xinming Tu</u>*, <u>Yilun Sheng</u>, <u>Alexander Sasse</u>, Rezwan Hosseini, Maria Chikina, <b> Sara Mostafavi</b><sup></sup>.<I> Nature Methods</I>
-  image: ../images/sage.png
+     <u>Tommy Ahn</u>.<I> Journal of Urban Intelligence and Analytics (JUIA)</I>
+  image: ../images/p1.png
   year: 2026
   repo:
     name: link
