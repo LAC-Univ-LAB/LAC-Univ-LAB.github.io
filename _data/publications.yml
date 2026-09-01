@@ -1,14 +1,5 @@
 ---
 - title: >
-    Benchguard: Who guards the benchmarks? automated auditing of LLM agent benchmarks
-  author: >
-     <u>Xinming Tu</u>, <u>Tianze Wang</u>, Kexin Huang, Yuanhao Qu, <b>Sara Mostafavi</b>.<I> Conference on Language Modeling (COLM)</I>
-  image: ../images/BenchGaurd.png
-  year: 2026
-  repo:
-    name: link
-    url: https://arxiv.org/pdf/2604.24955
-- title: >
     Interpretable Urban AI for Dynamic Public-Safety Response in Los Santos
   author: >
      <u>Tommy Ahn</u>.<I> Journal of Urban Intelligence and Analytics (JUIA)</I>
@@ -16,4 +7,4 @@
   year: 2026
   repo:
     name: link
-    url: https://www.biorxiv.org/content/10.1101/2025.02.21.639494v2
+    url: ../docs/LAB_Urban_AI.pdf
