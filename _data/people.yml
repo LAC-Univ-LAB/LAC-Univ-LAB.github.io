@@ -1,0 +1,28 @@
+---
+
+- name: Sara Mostafavi
+  role: Principal Investigator
+  photo: "images/Sara_2024_v2.jpg" 
+
+- name: Xinming Tu
+  role: PhD Student at UW - CSE
+  photo: "/images/Xinming.png"
+  
+- name: Anna Spiro
+  role: UW CSE PhD Student 
+  photo: "/images/Anna.jpg"
+
+- name: Yilun Sheng
+  role: UW CSE PhD Student 
+  photo: "/images/yilunsheng.jpg"
+
+- name: Tianze Wang
+  role: UW CSE PhD Student 
+  photo: "/images/Tianze.jpg"
+
+  
+- name: Alina Chandra
+  role: UW CSE Undergraduate 
+  photo: "/images/Alina.JPG"
+
+
