@@ -14,7 +14,7 @@
   
 - name: Simin
   role: M.S. Student
-  photo: "/images/empty.png"
+  photo: "/images/sm.png"
   
 - name: Mong Mong
   role: M.S. Student
@@ -51,3 +51,7 @@
 - name: Pung-roe Kim
   role: Undergraduate Student
   photo: "/images/pl.png"
+
+- name: Eun-byeol Yoo
+  role: Undergraduate Student
+  photo: "/images/eb.png"
