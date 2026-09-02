@@ -20,9 +20,9 @@
   role: M.S. Student 
   photo: "/images/pn.png"
 
-- name: Rakun Kim
+- name: Raccoon Kim
   role: M.S. Student
-  photo: "/images/empty.png"
+  photo: "/images/rcc.png"
 
 - name: Danaka
   role: M.S. Student
@@ -34,11 +34,11 @@
 
 - name: ChanAh Ki
   role: M.S. Student
-  photo: "/images/empty.png"
+  photo: "/images/ca.png"
   
 - name: Sunhee Jin
   role: Undergraduate Student
-  photo: "/images/empty.png"
+  photo: "/images/jsh.png"
   
 - name: Seungwon Cha
   role: Undergraduate Student
