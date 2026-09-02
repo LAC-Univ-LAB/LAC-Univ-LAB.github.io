@@ -4,6 +4,10 @@
   role: Ph.D. Student
   photo: "images/sj.png" 
 
+- name: SY
+  role: Ph.D. Student
+  photo: "images/empty.png" 
+  
 - name: Welchi
   role: M.S. Student
   photo: "/images/wc.png"
